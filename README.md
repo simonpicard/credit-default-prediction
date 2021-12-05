@@ -16,8 +16,7 @@ Download the data from https://www.kaggle.com/dopicardo/loan-data and move in `.
 A financial institution is looking for a better approach to
 identify credit defaulters. They would like to understand if it's
 possible to predict which customers are likely to default on their loan
-payments after receiving their loan approval. If not possible then our
-client is interested to understand what is required to enable this in
+payments after receiving their loan approval. If not possible then the institution is interested to understand what is required to enable this in
 the future and thus resolve the obstacle.
 
 ## Data
