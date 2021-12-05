@@ -1,6 +1,6 @@
 # credit-default-prediction
 
-A data science assignment I did 2017.
+A data science assignment I did in 2017.
 
 ## Quickstart
 
