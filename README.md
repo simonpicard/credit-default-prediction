@@ -1,5 +1,7 @@
 # credit-default-prediction
 
+A data science assignment I did 2017.
+
 ## Quickstart
 
 ```
