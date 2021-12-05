@@ -8,4 +8,4 @@ conda activate loan
 pip install -r requirements.txt
 jupyter lab prediction.ipynb 
 ```
-Download the data from https://www.kaggle.com/dopicardo/loan-data?select=Loan+Classification+Information.csv and move in ./Loan Data`
+Download the data from https://www.kaggle.com/dopicardo/loan-data and move in ./Loan Data`
